@@ -14,20 +14,21 @@ const barkPlayer = document.querySelector("#barkPlayer");
 
 const roastLines = [
   "I am not exactly a genius.",
-  "My brain is buffering.",
-  "I forgot how doors work.",
-  "I support Arsenal, duh uh.",
-  "I make terrible decisions with confidence.",
-  "I am built like a loading screen.",
-  "My drip has a software update pending.",
-  "I failed the vibe check.",
-  "I put the L in low poly.",
-  "Today I chose nonsense."
+  "我是笨狗“,
+  "汪汪汪汪汪汪",
+  "6767676767676767",
+  "I like smelly feet and little boys",
+  "Epstein is my hero",
+  "I support Arsenal, duh uh",
+  "I make terrible decisions with confidence",
+  "My drip has a software update pending",
+  "I failed the vibe check",
+  "Today I chose nonsense"
 ];
 
 const owLines = [
-  "Ow.",
-  "Ow, my low poly bones.",
+  "大胆",
+  "OW!",
   "Tomato damage detected.",
   "That was personal.",
   "I regret standing here."
