@@ -14,7 +14,7 @@ const barkPlayer = document.querySelector("#barkPlayer");
 
 const roastLines = [
   "I am not exactly a genius.",
-  "我是笨狗“,
+  "我是笨狗",
   "汪汪汪汪汪汪",
   "6767676767676767",
   "I like smelly feet and little boys",
